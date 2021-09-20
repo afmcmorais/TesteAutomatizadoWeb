@@ -1,8 +1,8 @@
 #language: pt
 
 Funcionalidade: Sistema de login
-Para ter acesso ao sistema
-o usuario
+Para ter acesso ao sistema 
+o usuario 
 deseja logar no site
 
 Cenario: Login com sucesso
